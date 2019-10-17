@@ -30,7 +30,7 @@
 
 |Addons for Browsers|||
 |---|---|---|
-|[uBlock Origin](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)||![UBlock_Origin.svg]|
+|[uBlock Origin](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)|||
 |[Privacy Badger](https://www.eff.org/es/node/99095)|||
 |[HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)|||
 |[No Script](https://addons.mozilla.org/es/firefox/addon/noscript/)|||
